@@ -39,8 +39,8 @@ To run, follow these steps:
 
 - Clone my repository `https://github.com/dnyaneshwarmagar/Project-on-Cloning-of-Bewkoof.com`
 - Open the code in your VS code
-- Run index.html file on browser using any port.
-- To run on port 7500 on the browser `http://localhost:7500/index.html`
+- Run home.html file on browser using any port.
+- To run on port 7500 on the browser `http://localhost:7500/home.html`
 - Then you can Navigate through other pages from Landing page
 
 ## Creators
